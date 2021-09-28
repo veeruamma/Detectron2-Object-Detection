@@ -2,8 +2,14 @@
 Object detection web application developed using Detectron2 pre-trained model
 
 ## Steps to implement at your local machine
-1. Clone the repository
-2. Create a new conda or virtual environment to run this project (recommended if you don't want to mess up with the libraries in existing environment)
+1. Create a new conda or virtual environment to run this project (recommended if you don't want to mess up with the libraries in existing environment)
+
+
+2. Activate or switch to the environment and clone the repository
+``` 
+git clone https://github.com/veeruamma/Detectron2-Object-Detection.git
+```
+
 3. Install the required libraries using the following command
 ``` 
 pip install -r requirements.txt 
