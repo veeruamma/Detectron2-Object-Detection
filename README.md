@@ -15,7 +15,7 @@ git clone https://github.com/veeruamma/Detectron2-Object-Detection.git
 pip install -r requirements.txt 
 ```
 
-4. Install the detectron2 manually by referring to following command (it's commented in requirements.txt file)
+4. Install the detectron2 manually by referring to following command (it's commented in requirements.txt)
 ``` 
 pip install 'git+https://github.com/facebookresearch/detectron2.git'
 ```
